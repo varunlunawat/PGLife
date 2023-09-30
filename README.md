@@ -14,9 +14,10 @@ Listing Details: Each PG accommodation listing provides comprehensive details, i
 Reviews and Ratings: Users can read and submit reviews and ratings for PG accommodations, helping others make informed decisions.
 Booking and Payment: The website facilitates the booking process by allowing users to check availability, select desired dates, and make secure online payments.
 Responsive Design: The website is designed to be responsive, ensuring optimal user experience across various devices, including desktops, laptops, tablets, and smartphones.
-Technologies Used:
 
+Technologies Used:
 CSS: Cascading Style Sheets (CSS) is used to enhance the visual appearance and layout of the website, ensuring a consistent and aesthetically pleasing design.
 JavaScript: JavaScript is employed to add interactivity and dynamic functionality to the website, enabling features such as advanced search, map integration, and user interactions.
 HTML5: HyperText Markup Language (HTML5) is the core markup language used for structuring and presenting the content of the website, ensuring compatibility across different web browsers.
+
 Conclusion: The website for finding PG accommodations in different states of India offers a comprehensive and user-friendly platform for individuals seeking suitable living arrangements. By leveraging the power of CSS, JavaScript, and HTML5, the website provides an intuitive and efficient way to search, compare, and book PG accommodations. With its advanced features and responsive design, the website aims to streamline the process of finding PG accommodations, ultimately enhancing the overall user experience.
